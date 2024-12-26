@@ -1,27 +1,27 @@
 **Project Description: Patient Wait List Dashboard**
 
 **Overview:**
-The *Patient Wait List Dashboard* is an interactive Power BI project designed to derive actionable insights from a healthcare dataset sourced from Kaggle. The dataset contains approximately 200,000 rows of patient wait list information, split into two categories: **Inpatient** (patients admitted to the hospital during treatment) and **Outpatient** (patients treated without hospital admission). This project provides an in-depth analysis of patient wait times, historical trends, and specialty-level statistics, offering valuable insights for healthcare management and decision-making.
+The *Patient Wait List Dashboard* is an interactive Power BI project designed to provide actionable insights from a healthcare dataset sourced from Kaggle. This dataset includes approximately 200,000 rows of patient wait list information split into two categories: **Inpatient** (patients admitted to the hospital during treatment) and **Outpatient** (patients treated without hospital admission). The dashboard offers a comprehensive analysis of patient wait times, historical trends, and specialty-level statistics, assisting healthcare professionals in making informed decisions.
 
 **Key Features:**
-1. **Current Patient Wait List Status Tracking**: Monitor the real-time distribution and volume of patients on the wait list, categorized by inpatient and outpatient status.
-2. **Historical Trend Analysis**: Visualize monthly trends in patient wait times, enabling a better understanding of historical patterns and seasonal variations in both inpatient and outpatient categories.
-3. **Specialty and Age Profile Analysis**: Gain detailed insights into specialty-specific patient wait lists and demographic profiles (age groups, adult vs. child).
-4. **Top Recurring Specialties**: Identify the specialties with the highest patient wait list volumes, providing insights into areas with potential resource allocation challenges.
+1. **Current Patient Wait List Status Tracking**: Visualize the real-time distribution and volume of patients on the wait list, segmented by inpatient and outpatient categories.
+2. **Historical Trend Analysis**: Track monthly trends in patient wait times to identify historical patterns and seasonal fluctuations in both inpatient and outpatient data.
+3. **Specialty and Age Profile Analysis**: Conduct detailed assessments of specialty-specific wait lists and demographic breakdowns, including age profiles (adult vs. child).
+4. **Top Recurring Specialties**: Highlight specialties with the highest patient volumes, helping identify areas for resource optimization.
 
 **Technical Process:**
-- **Data Preparation**: The dataset was preprocessed to ensure data quality. Each category (inpatient and outpatient) was transformed individually to address inconsistencies and improve usability.
-- **Table Merging**: The transformed tables were merged into a consolidated dataset for unified analysis.
-- **Dashboard Design**: The Power BI visualization consists of two pages:
-  - **Summary Page**: Highlights the main insights through visually engaging charts and graphs.
-  - **Details Page**: Provides detailed, number-based information about the data and insights for granular analysis.
+- **Data Transformation**: Both inpatient and outpatient datasets were transformed individually to improve data quality and consistency.
+- **Table Merging**: The transformed datasets were merged into a unified table to enable holistic analysis.
+- **Dashboard Design**: The Power BI dashboard comprises two pages:
+  - **Summary Page**: Showcases the primary insights through dynamic charts and visualizations.
+  - **Details Page**: Provides detailed numerical data and insights for users requiring granular analysis.
 
-**Interactive Experience:**
-Download the **"Patient Wait List Dashboard.pbix"** file to experience the dashboard in its original form using Power BI Desktop. This interactive format allows users to explore the insights dynamically, customize views, and drill down into specific details.
+**Files Included:**
+1. **"Patient Wait List Dashboard.pbix"**: The Power BI file that can be downloaded and opened with Power BI Desktop for an interactive exploration of the dashboard.
+2. **"Dashboard Pictures"**: A set of images showcasing the dashboard layout and insights for quick reference.
 
 **Audience:**
-This project caters to both technical and non-technical audiences. Healthcare professionals can leverage the insights for operational improvements, while data analysts and Power BI enthusiasts can explore the technical aspects of dashboard creation and data visualization.
+This project is designed for a diverse audience, including healthcare professionals seeking operational insights and data analysts exploring advanced Power BI techniques. The clear and concise visualizations ensure accessibility for non-technical users, while the detailed data structure caters to technical stakeholders.
 
-Explore the *Patient Wait List Dashboard* to uncover the power of data-driven decision-making in healthcare.
-
+Discover the *Patient Wait List Dashboard* and experience the impact of data-driven decision-making in healthcare.
 
